@@ -1,7 +1,7 @@
 # StayU
 Prueba Técina
 
-#Pregunta 1:
+# Pregunta 1:
 - Lo primero que se realizó fue entrar a ver el sitio web que se queria analizar, pare revisar su estructura, componentes, información relevante, etc.
 - Me puse a investigar un poco más sobre scraping, pues era la primera vez que lo realizaba, aprender la mejor forma de realizarlo, y plasmarlo en código python.
 - Se realiazó el código en python importando diferentes librerias que ayuden a extraer información de la página Booking en Barcelona.
